@@ -14,9 +14,10 @@
     "lint": "concurrently \"yarn run lint:js\" \"yarn run lint:scss\" \"yarn flow\"",
     "test": "jest --config ./jest/jest-config.js",
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
-    "test:watch": "jest --watch --config ./jest/jest-config.js"
+    "test:watch": "jest --watch --config ./jest/jest-config.js",
+    "deploygh": "gatsby build && gh-pages -d public -b master"
   },
-  "repository": "https://github.com/alxshelepenok/gatsby-starter-lumen",
+  "repository": "https://github.com/hipsterironman/hipsterironman.github.io",
   "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
   "license": "MIT",
   "keywords": [
@@ -104,7 +105,7 @@
     "eslint-watch": "7.0.0",
     "flow-bin": "^0.129.0",
     "flow-typed": "^3.2.1",
-    "gh-pages": "3.1.0",
+    "gh-pages": "^3.1.0",
     "identity-obj-proxy": "3.0.0",
     "jest": "26.2.1",
     "jest-cli": "26.2.1",

@@ -1,13 +1,11 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+# socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Hey. I'm Ryan. I graduated from UMD CS with a Bachelor's in May 2020, and am currently working from home in Maryland as a junior software engineer. I'm  a web developer with a particular interest in React and Node applications. I like functional programming and clean code.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+Outside of work, I play Smash (Fox/Peach main in Melee, Wolf in Ultimate) and write (weird postmodern stories like George Saunders). I run and like craft beer and good wine.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Topics I'll write about here will range from Javascript to weird musings on video games to whatever I happen to be thinking about at the time.
