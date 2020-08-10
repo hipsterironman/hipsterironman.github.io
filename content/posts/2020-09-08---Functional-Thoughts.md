@@ -9,11 +9,11 @@ tags:
   - "Functional"
   - "Javascript"
   - "Web Development"
-description: "Random musings regarding functional programming."
+description: "A test post dedicated to my love of arrow functions."
 socialImage: "/media/42-line-bible.jpg"
 ---
 
-Just thinking about arrow functions, really.
+Just thinking about arrow functions.
 
 ```js
 const sum = arr.reduce((acc, idx) => acc + idx, 0);
@@ -28,7 +28,7 @@ for (let i = 0; i < arr.length; i++) {
 }
 ```
 
-Now look at this garbage. Disgusting. Miss me with this Java-ass bullshit.
+Now look at thi. Disgusting. Miss me with this Java nonsense.
 
 ```js
 const double = arr.map(x => x * 2);
