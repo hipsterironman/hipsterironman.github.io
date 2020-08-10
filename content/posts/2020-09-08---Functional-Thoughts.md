@@ -28,7 +28,7 @@ for (let i = 0; i < arr.length; i++) {
 }
 ```
 
-Now look at thi. Disgusting. Miss me with this Java nonsense.
+Now look at this. Disgusting. Miss me with this Java nonsense.
 
 ```js
 const double = arr.map(x => x * 2);
