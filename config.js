@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://ryanstark.dev',
   pathPrefix: '/',
   title: 'Ryan Stark - Blog',
   subtitle: 'Takes and musings.',
-  copyright: '© All rights reserved.',
+  copyright: '© 2020 Ryan Stark. All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
