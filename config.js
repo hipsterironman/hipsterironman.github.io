@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Ryan Stark',
     photo: '/photo.jpg',
-    bio: 'Web dev & writer.',
+    bio: 'Developer & writer.',
     contacts: {
       email: 'ryan.l.stark@gmail.com',
       facebook: '',
